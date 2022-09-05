@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Leo
-- 👀 I’m interested in IT, and I game and ride my moped in my free time
-- 🌱 I’m currently learning the programming language Java and other IT-related things on an Austrian High-School
-- 📫 How to reach me: Discord: nyke#6969 (yes I know it's a rather silly #)
+
